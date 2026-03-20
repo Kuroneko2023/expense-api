@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.db
+.env
+__pycache__/
+.venv/
