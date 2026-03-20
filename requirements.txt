@@ -1,5 +1,6 @@
 fastapi
 uvicorn
 supabase==2.3.0
+httpx==0.27.2
 pydantic
 python-dotenv
